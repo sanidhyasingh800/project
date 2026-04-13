@@ -8,8 +8,8 @@ tions and dimensionality. In particular we see how the latent space performs whe
 complex images such as the CIFAR-10 dataset.To explore these questions, we implement and work with a
 β-Conditional Variational Autencoder or a β-CVAE.
 
-The primary contribution of this project will be to analysze the tradeoff between latent-space interpretabil-
-ity and reconstruction quality in β-CVAEs for class-conditional image generation. While β-VAE models
+The primary contribution of this project will be to analysze the tradeoff between latent-space interpretability and reconstruction quality in β-CVAEs for class-conditional image generation. While β-VAE models
+
 are known to produce more structured and interpretable latent representations KL penalties, this typically
 comes at the cost of reduced reconstruction fidelity.
 
